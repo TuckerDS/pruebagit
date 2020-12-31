@@ -1,7 +1,5 @@
 Prueba
-<<<<<<< HEAD
 Codigo de jey
-=======
+
 Cambios de santi
 
->>>>>>> develop
